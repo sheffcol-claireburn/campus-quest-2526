@@ -1,0 +1,36 @@
+# Campus Quest – Python coding standards 
+
+These are our team rules for writing Python code.  
+They are here to make our mini-games clear and easy for everyone to read.
+
+## 1. File header
+
+At the top of your main file, include:
+Mini-game name
+Author: Your Name
+
+## 2. Names
+
+Use clear, meaningful names for variables and functions (for example: score, target_number, ask_question).
+
+Use lowercase_with_underscores for variables and functions (for example: player_score, check_answer).
+
+## 3. Layout
+
+Use 4 spaces for each level of indentation.
+
+Keep your indentation consistent (do not mix tabs and spaces).
+
+Keep your code tidy and lined up so it’s easy to read.
+
+## 4. Input and output
+
+Use print() and input() with clear, user-friendly messages.
+
+Make sure the text you show to the player is easy to understand.
+
+## 5. Comments
+
+Add short comments to explain any tricky or important parts of your code.
+
+Do not comment every line – only where it helps someone understand your logic.
